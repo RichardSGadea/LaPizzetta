@@ -4,4 +4,11 @@
 
 Bienvenidos a La Pizzeta, tu pizería 100% artesana con productos frescos y de buena calidad. Te transportará a las calles de Italia. 
 
-![Logo](./img/IconoPizzeria)
+![Logo](./img/incio/IconoPizzeria)
+
+## Características principales
+
+**Menú**: Nuestra carta presenta una variedad de pizzas de las que la mayoría son conocidas.
+**Accesible en línea**: Puedes explorar la carta.
+
+## Uso   
