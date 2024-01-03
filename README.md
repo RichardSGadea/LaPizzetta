@@ -2,7 +2,7 @@
 
 # Simulación de Pizzería
 
-Bienvenidos a La Pizzeta, tu pizería 100% artesana con productos frescos y de buena calidad. Te transportará a las calles de Italia. 
+Bienvenidos a La Pizzeta, tu pizzería 100% artesana con productos frescos y de buena calidad. Te transportará a las calles de Italia. 
 
 ![Logo](./img/inicio/IconoPizzeria.png)
 
@@ -13,8 +13,8 @@ Bienvenidos a La Pizzeta, tu pizería 100% artesana con productos frescos y de b
 
 ## Características principales
 
--**Menú**: Nuestra carta presenta una variedad de pizzas, todas elaboradas con productos italianos.
--**Accesible en línea**: Puedes explorar la carta, consultar nuestro horario y formulario para poneros en contacto con nostros.
+* **Menú**: Nuestra carta presenta una variedad de pizzas, todas elaboradas con productos italianos.
+* **Accesible en línea**: Puedes explorar la carta, consultar nuestro horario y formulario para poneros en contacto con nostros.
 
 ## Uso   
 1. **Página de inicio**: Encontrarás una breve introducción y los apartados a los que podrás acceder.
@@ -27,9 +27,9 @@ Bienvenidos a La Pizzeta, tu pizería 100% artesana con productos frescos y de b
 ![Captura de Pantalla 3](./img/léeme/CapturaPantalla3.jpg)
 
 ## Funcionalidades a desarrollar en un futuro
--**Formulario**: ponerse en contacto con la pizzería por correo.
--**Hacer Pedido Online**: poder hacer un pedido desde la web y que la pizzería reciba esa petición.
--**Llamar al establecimiento**: al pulsar, llamar automáticamente al local desde dispositivos móviles.
+* **Formulario**: ponerse en contacto con la pizzería por correo.
+* **Hacer Pedido Online**: poder hacer un pedido desde la web y que la pizzería reciba esa petición.
+* **Llamar al establecimiento**: al pulsar, llamar automáticamente al local desde dispositivos móviles.
 
 ## Contribuciones
 Si alguien desea contribuir en el desarrollo de La Pizzetta, puede ponerse en contacto con nosotros en richardsgadea@gmal.com o le invitamos a abrir un [Issue](https://github.com/RichardSGadea/LaPizzetta/issues) o enviar una [Pull request](https://github.com/RichardSGadea/LaPizzetta/pulls)
