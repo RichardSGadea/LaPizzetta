@@ -1,3 +1,9 @@
+/*Estilos para la barra de navegación*/
+#barraNav{
+    font-family: 'Franklin Gothic Medium';
+}
+
+/*Contenedor compartido por todos los archivos html*/
 .cajaImagenCabecera{
     background-image: url(../img/inicio/bajoHeader.png);
     background-repeat: no-repeat;
@@ -10,11 +16,17 @@
     height: 20em;
 }
 
+
 .btnContact{
     color: white;
     padding: 2em 3em;
     text-decoration: none;
 }
+
+.btnContact:hover{
+    color: yellow;
+}
+
 
 .btnMenu{
     color: white;
@@ -22,9 +34,28 @@
     text-decoration: none;
 }
 
+.btnMenu:hover{
+    color: yellow;
+}
 
-/*contact.html*/
 
+/*Estilos en contact.html*/
+.btnPedido{
+    color: white;
+    padding: 2em 3em;
+    text-decoration: none;
+}
+.btnPedido:hover{
+    color: yellow;
+}
 .itemHorario{
     list-style: none;
+}
+.card:hover{
+    box-shadow: 5px 5px 10px red;
+}
+
+/*Estilos del footer*/
+footer {
+    font-family: 'Franklin Gothic Medium';
 }
