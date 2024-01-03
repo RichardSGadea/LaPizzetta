@@ -7,9 +7,9 @@ Bienvenidos a La Pizzeta, tu pizzería 100% artesana con productos frescos y de 
 ![Logo](./img/inicio/IconoPizzeria.png)
 
 ## Tecnologías utilizdas
--**HTML5** ![logoHtml5](https://img.shields.io/badge/HTML5-orange?logo=HTML5)
--**CSS3** ![logoCss3](https://img.shields.io/badge/CSS3-blue?logo=CSS3)
--**BOOTSTRAP** ![logoBootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap)
+![logoHtml5](https://img.shields.io/badge/HTML5-orange?logo=HTML5)
+![logoCss3](https://img.shields.io/badge/CSS3-blue?logo=CSS3)
+![logoBootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap)
 
 ## Características principales
 
