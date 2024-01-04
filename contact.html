@@ -104,7 +104,8 @@
                                         </div>
                                         <!--Botón para el envío-->
                                         <div class="mb-4">
-                                            <button type="submit" class="btn btn-danger text-white" id="botonEnvio">Enviar</button>
+                                            <!--button que alterna ventana emergente, ya que no está en funcionamiento el envío del formulario-->
+                                            <button type="button" class="btn btn-danger" title="Error Envío" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Funcionalidad en construcción">Enviar</button>
                                         </div>
                                     </form>
                                 </div>
@@ -139,5 +140,12 @@
     </footer>
     <!--Script Bootstrap-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <!--Script para funcionalidad de ventana popover-->
+    <script>
+        var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]')) 
+        var popoverList = popoverTriggerList.map(function(popoverTriggerEl){
+            return new bootstrap.Popover(popoverTriggerEl)
+        })
+    </script>
 </body>
 </html>
