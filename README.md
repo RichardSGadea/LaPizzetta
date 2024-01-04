@@ -6,7 +6,10 @@ Bienvenidos a La Pizzeta, tu pizzería 100% artesana con productos frescos y de 
 
 ![Logo](./img/inicio/IconoPizzeria.png)
 
-## Tecnologías utilizdas
+## Proyecto
+Este proyecto está centrado en el diseño responsive. Consta de tres páginas html hipervinculadas (Inicio,Carta,Contacto) del establecimiento de restauración.
+
+## Tecnologías utilizadas
 ![logoHtml5](https://img.shields.io/badge/HTML5-orange?logo=HTML5)
 ![logoCss3](https://img.shields.io/badge/CSS3-blue?logo=CSS3)
 ![logoBootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap)
@@ -34,3 +37,16 @@ Bienvenidos a La Pizzeta, tu pizzería 100% artesana con productos frescos y de 
 ## Contribuciones
 Si alguien desea contribuir en el desarrollo de La Pizzetta, puede ponerse en contacto con nosotros en richardsgadea@gmal.com o le invitamos a abrir un [Issue](https://github.com/RichardSGadea/LaPizzetta/issues) o enviar una [Pull request](https://github.com/RichardSGadea/LaPizzetta/pulls)
 
+## Implementación de este repositorio
+1. Descargaremos Git con la versión que deseemos (https://git-scm.com/)
+2. Nos crearemos desde la consola un directorio en el que alojaremos el clone de este repositorio, luego entraremos dentro del repositorio creado
+   ```
+   mkdir directorioNuevo
+   ```
+   ```
+   cd directorioNuevo
+   ```
+3. Y dentro de esta carpeta en consola pondríamos el siguiente comando
+   ```
+   https://github.com/RichardSGadea/LaPizzetta.git
+   ```
