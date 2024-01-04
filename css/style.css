@@ -16,7 +16,7 @@
     height: 20em;
 }
 
-
+/*Estilos para index.html*/
 .btnContact{
     color: white;
     padding: 2em 3em;
@@ -39,7 +39,7 @@
 }
 
 
-/*Estilos en contact.html*/
+/*Estilos para contact.html*/
 .btnPedido{
     color: white;
     padding: 2em 3em;
@@ -53,6 +53,9 @@
 }
 .card:hover{
     box-shadow: 5px 5px 10px red;
+}
+#botonEnvio:hover{
+    background-color: lightcoral;
 }
 
 /*Estilos del footer*/

@@ -17,6 +17,7 @@
 </head>
 <body>
     <header>
+        <!--Menú de navegación-->
         <nav class="navbar navbar-expand-sm sticky-top navbar-light bg-light" id="barraNav">
             <div class="container-fluid">
                 <a class="navbar-brand" href="./index.html">La Pizzetta</a>
@@ -42,6 +43,7 @@
             </div>
         </div>
         <div class="container">
+            <!--Contenedor centrado dividido con 2 cards con la información de contacto-->
             <div class="row">
                 <div class="col-xs-12 col-md-6">
                     <div class="card mt-5">
@@ -85,20 +87,24 @@
                             <div class="card-body">
                                 <div class="container-fluid" id="formulario">
                                     <form>
+                                        <!--Entrada de datos tipo text-->
                                         <div class="mb-4">
                                             <label for="name" class="form-label"><h5><b>Nombre</b></h5></label>
                                             <input type="text" id="name" class="form-control" autocomplete="given-name">
                                         </div>
+                                        <!--Entrada de datos tipo email-->
                                         <div class="mb-4">
                                             <label for="tuEmail" class="form-label"><h5><b>Dirección de correo</b></h5></label>
                                             <input type="email" class="form-control" id="tuEmail"  placeholder="pizzeria@pizzeria.com" autocomplete="off">
                                         </div>
+                                        <!--Entrada de datos tipo text area-->
                                         <div class="mb-4">
                                             <label for="cajaTextArea" class="form-label"><h5><b>Mensaje</b></h5></label>
                                             <textarea id="cajaTextArea" class="form-control"></textarea>
                                         </div>
+                                        <!--Botón para el envío-->
                                         <div class="mb-4">
-                                            <button type="submit" class="btn btn-danger text-white">Enviar</button>
+                                            <button type="submit" class="btn btn-danger text-white" id="botonEnvio">Enviar</button>
                                         </div>
                                     </form>
                                 </div>
@@ -111,7 +117,7 @@
     <footer>
         <div class="container-fluid bg-light mt-5">
             <div class="container-md">
-                <!--div dividido en 3 cuando se visualiza en dispositivos md o mayores, y en pantallas más pequeñas uno encima de otro-->
+                <!--contenedor dividido en 3 cuando se visualiza en dispositivos md o mayores, y uno encima de otro en pantallas más pequeñas-->
                 <div class="row">
                     <div class="col-xs-12 col-md-4">
                         <p>La Pizzetta</p>
