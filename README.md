@@ -48,5 +48,5 @@ Si alguien desea contribuir en el desarrollo de La Pizzetta, puede ponerse en co
    ```
 3. Y dentro de esta carpeta en consola pondríamos el siguiente comando
    ```
-   https://github.com/RichardSGadea/LaPizzetta.git
+   git clone https://github.com/RichardSGadea/LaPizzetta.git
    ```
