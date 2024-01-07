@@ -35,7 +35,7 @@ Este proyecto está centrado en el diseño responsive. Consta de tres páginas h
 * **Llamar al establecimiento**: al pulsar, llamar automáticamente al local desde dispositivos móviles.
 
 ## Contribuciones
-Si alguien desea contribuir en el desarrollo de La Pizzetta, puede ponerse en contacto con nosotros en richardsgadea@gmal.com o le invitamos a abrir un [Issue](https://github.com/RichardSGadea/LaPizzetta/issues) o enviar una [Pull request](https://github.com/RichardSGadea/LaPizzetta/pulls)
+Si alguien desea contribuir en el desarrollo de La Pizzetta, puede ponerse en contacto con nosotros en richardsgadea@gmail.com o le invitamos a abrir un [Issue](https://github.com/RichardSGadea/LaPizzetta/issues) o enviar una [Pull request](https://github.com/RichardSGadea/LaPizzetta/pulls)
 
 ## Implementación de este repositorio
 1. Descargaremos Git con la versión que deseemos (https://git-scm.com/)
